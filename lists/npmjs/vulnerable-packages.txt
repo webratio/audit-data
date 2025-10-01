@@ -16,7 +16,6 @@ simple-swizzle@0.2.3
 slice-ansi@7.1.1
 strip-ansi@7.1.1
 supports-color@10.2.1
-supports-hyperlinks@4.1.1
 wrap-ansi@9.0.1
 @ahmedhfarag/ngx-perfect-scrollbar@20.0.20
 @ahmedhfarag/ngx-virtual-scroller@4.0.4
